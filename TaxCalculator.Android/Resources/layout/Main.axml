@@ -19,7 +19,6 @@
     <TextView
         android:textAlignment="center"
         android:textSize="30dp"
-        android:text="Text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/lblResult" />
